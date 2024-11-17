@@ -1,0 +1,9 @@
+# Memory initialization for test program
+# Numbers to sum: 10, 20, 30, 40
+0x100: 10    # First number
+0x104: 20    # Second number
+0x108: 30    # Third number
+0x10C: 40    # Fourth number
+
+# Result will be stored at 0x200
+0x200: 0     # Initialize result location to 0

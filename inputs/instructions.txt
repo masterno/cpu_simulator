@@ -1,0 +1,4 @@
+# Sample instruction format
+# ADD R1, R2, R3
+# ADDI R1, R2, 100
+# SW R1, 0(R2)
